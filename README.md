@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Amrat0 - MERN Stack Developer
-- Welcome to my GitHub profile! I'm Amrat, a MERN (MongoDB, Express.js, React.js, Node.js) stack developer passionate about building scalable and innovative web applications. Below you'll find an overview of my skills, projects, and how to get in touch with me.
-- 🌱 I’m currently learning MERN STACK DEVELOPMENT
+- 👋 Hi, I’m @Amrat0 - Full Stack Developer
+- Welcome to my GitHub profile! I'm Amrat , a Asp.net, Asp.net MVC, WebForm, WebApi as well as  MERN (MongoDB, Express.js, React.js, Node.js) developer passionate about building scalable and innovative web applications. Below you'll find an overview of my skills, projects, and how to get in touch with me.
 - 💞️ I’m looking to collaborate with developers 
 - 📫 How to reach me through linkedin instagram "AmratAmu"
 - 
@@ -15,6 +14,9 @@
 - Frontend Frameworks (Bootstrap, Material-UI)
 
 ### Backend Development
+-Asp.net
+-Asp.net MVC
+-C#
 - Node.js
 - Express.js
 - MongoDB
